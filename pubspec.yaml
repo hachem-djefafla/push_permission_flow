@@ -1,6 +1,7 @@
 name: push_permission_flow
-description: A predictable, testable notification permission flow for Flutter and Dart applications.
+description: A predictable, testable notification permission flow for Dart and Flutter applications.
 version: 0.1.0
+
 repository: https://github.com/hachem-djefafla/push_permission_flow
 issue_tracker: https://github.com/hachem-djefafla/push_permission_flow/issues
 
