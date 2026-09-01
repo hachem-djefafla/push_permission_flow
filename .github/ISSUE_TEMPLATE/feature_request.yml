@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest an improvement to push_permission_flow
+title: "[Feature]: "
+labels: ["enhancement"]
+
+body:
+  - type: textarea
+    attributes:
+      label: Problem
+      description: What problem are you trying to solve?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Alternatives considered
