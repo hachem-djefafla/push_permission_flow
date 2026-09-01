@@ -1,14 +1,13 @@
 name: push_permission_flow
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: A predictable, testable notification permission flow for Flutter and Dart applications.
+version: 0.1.0
+repository: https://github.com/hachem-djefafla/push_permission_flow
+issue_tracker: https://github.com/hachem-djefafla/push_permission_flow/issues
 
 environment:
-  sdk: ^3.12.2
+  sdk: ^3.8.0
 
-# Add regular dependencies here.
-dependencies:
-  # path: ^1.9.0
+dependencies: {}
 
 dev_dependencies:
   lints: ^6.0.0
